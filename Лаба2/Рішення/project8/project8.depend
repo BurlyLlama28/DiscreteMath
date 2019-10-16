@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570661700 source:c:\users\pc\desktop\Дискретка\Лаба2\project8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1570706284 source:c:\users\pc\desktop\Дискретка\Лаба2\Рішення\project8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
