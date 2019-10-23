@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571858635 source:c:\users\pc\desktop\Дискретка\Лаба3\Рішення\project9\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
