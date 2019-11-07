@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573071656 source:c:\users\pc\desktop\Дискретка\Лаба4\Рішення\project14\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
