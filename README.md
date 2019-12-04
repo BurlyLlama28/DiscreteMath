@@ -1,2 +1,2 @@
 # DiscreteMath
-Labs and cetera
+Labs and etc.
